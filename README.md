@@ -102,7 +102,7 @@ docker-compose-reduced-test-case_hello_1 exited with code 0
 - Try running `docker-compose up --project-name foo` or `docker-compose up -p foo`. The output appears to be help context:
 
 ```bash
-$ docker-compose up --project-name=hello
+$ docker-compose up --project-name hello
 Builds, (re)creates, starts, and attaches to containers for a service.
 
 Unless they are already running, this command also starts any linked services.
